@@ -3,10 +3,13 @@ Customer Behaviour & Marketing Campaign Analysis
 Excel Data Analytics Portfolio Project | Customer Segmentation & Marketing Performance
 
 Project Overview
+
 How do customer characteristics relate to purchasing behaviour, and what can businesses learn from marketing campaign responses?
+
 This project explores customer purchasing behaviour and campaign engagement using Microsoft Excel. The objective was to identify spending patterns, examine relationships between customer income and expenditure, and explore opportunities for more effective customer segmentation.
 The analysis uses an educational dataset adapted from an iFood recruitment case study, containing 2,021 customer records.
 Project context: Completed as part of a guided Data Analytics Accelerator (DAA) learning programme.
+
 
 Key Findings
 1. Higher-income customers generally spend more
@@ -26,6 +29,7 @@ Business implication: Businesses could explore customer-value segments and inves
 whether different groups respond to different marketing approaches.
 
 Tools & Methodology
+
 Microsoft Excel was used throughout the analysis.
 The project involved:
 •	Data exploration, filtering and descriptive statistics.
@@ -36,6 +40,7 @@ The project involved:
 •	Interpreting findings and identifying potential marketing applications.
 
 Business Recommendations
+
 Based on the exploratory findings, three areas warrant further investigation:
 1.	Develop customer segments: Combine income, purchase history, age and campaign engagement to understand differences in customer behaviour.
 2.	Assess campaign targeting: Examine which customer groups have higher response rates and whether these groups also demonstrate higher customer value.
@@ -50,10 +55,12 @@ This is an exploratory, observational analysis and does not establish causal rel
 •	The dataset is educational and may not fully represent real-world customer populations.
 
 Repository Contents
+
 •	Customer_Campaign_Analysis.xlsx — Excel workbook containing the data, calculations and visualisations.
 •	Customer_Campaign_Analysis_Overview.pdf — Project summary, findings, recommendations and limitations.
 
 How to Explore the Analysis
+
 1.	Download the Excel workbook.
 2.	Open it in Microsoft Excel.
 3.	Review the customer analysis worksheets and supporting calculations.
@@ -61,6 +68,7 @@ How to Explore the Analysis
 5.	Compare the Campaign 6 respondent group with the overall population.
 
 Data Source & Project Attribution
+
 Educational customer marketing dataset adapted from the iFood Recruitment Case Study.
 Completed as part of a guided Data Analytics Accelerator learning project. The analytical interpretation and documentation have been developed for portfolio presentation with AI assistance.
 
