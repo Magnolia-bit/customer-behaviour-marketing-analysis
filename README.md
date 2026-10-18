@@ -1,5 +1,6 @@
 Customer Behaviour & Marketing Campaign Analysis
 Excel Data Analytics Portfolio Project | Customer Segmentation & Marketing Performance
+
 Project Overview
 How do customer characteristics relate to purchasing behaviour, and what can businesses learn from marketing campaign responses?
 This project explores customer purchasing behaviour and campaign engagement using Microsoft Excel. The objective was to identify spending patterns, examine relationships between customer income and expenditure, and explore opportunities for more effective customer segmentation.
